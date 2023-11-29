@@ -1,0 +1,6 @@
+{
+  "activation_flag": "HOOK",
+  "program_path": "/usr/bin/mountpoint2",
+  "host_mountpoint": "/blobdata",
+  "container_mountpoint": "/blobdata"
+}
